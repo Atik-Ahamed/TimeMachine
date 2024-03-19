@@ -1,0 +1,13 @@
+data/
+TimeMachine_supervised/exp/__pycache__/
+TimeMachine_supervised/data_provider/__pycache__/
+TimeMachine_supervised/models/__pycache__/
+TimeMachine_supervised/RevIN/__pycache__/
+TimeMachine_supervised/utils/__pycache__/
+TimeMachine_supervised/checkpoints/
+TimeMachine_supervised/logs/LongForecasting/
+TimeMachine_supervised/results/
+TimeMachine_supervised/test_results/
+TimeMachine_supervised/result.txt
+TimeMachine_supervised/csv_results/
+.vscode/settings.json
