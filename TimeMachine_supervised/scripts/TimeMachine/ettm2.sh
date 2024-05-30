@@ -76,7 +76,7 @@ do
             --dropout $fc_drop\
             --des 'Exp' \
             --train_epochs 100\
-            --itr 1 --batch_size 64 --learning_rate 0.001 >logs/LongForecasting/$model_name'_'$model_id_name'_'$seq_len'_'$pred_len'_'$n1'_'$n2'_'$fc_drop'_'$rin'_'$residual'_'$dstate'_'$dconv'_'$e_fact.log
+            --itr 1 --batch_size 1024 --learning_rate 0.001 >logs/LongForecasting/$model_name'_'$model_id_name'_'$seq_len'_'$pred_len'_'$n1'_'$n2'_'$fc_drop'_'$rin'_'$residual'_'$dstate'_'$dconv'_'$e_fact.log
         done      
     done
 done
