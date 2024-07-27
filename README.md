@@ -2,6 +2,7 @@
 
 ![Alt text](./pics/TimeMachine.PNG)
 ### Welcome to the official repository of: [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/pdf/2403.09898.pdf). 
+## :triangular_flag_on_post: TimeMachine is accepted to [**ECAI**](https://www.ecai2024.eu/) 
 ## Usage
 
 1. Install requirements. ```pip install -r requirements.txt```
